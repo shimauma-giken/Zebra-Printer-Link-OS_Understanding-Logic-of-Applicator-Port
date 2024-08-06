@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=d1YKfU_zrK0
 https://www.youtube.com/watch?v=mgz8I36TIg0
 
 </br>
+<img width="600" src="https://support.efficientbi.com/wp-content/uploads/Zebra-Applicator-Ports-on-a-110-PAX4-Print-Engine.png">
+
+</br>
 
 #### 利用可能プリンタ
 
